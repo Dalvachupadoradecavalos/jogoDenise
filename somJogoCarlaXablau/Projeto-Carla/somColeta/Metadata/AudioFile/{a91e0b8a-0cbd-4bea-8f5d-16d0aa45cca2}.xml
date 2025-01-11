@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a91e0b8a-0cbd-4bea-8f5d-16d0aa45cca2}">
+		<property name="assetPath">
+			<value>coleta.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.40172335600907028</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f15ee2f2-96a0-4223-b3c7-5dec0ca9c999}</destination>
+		</relationship>
+	</object>
+</objects>
