@@ -51,7 +51,7 @@ MonoBehaviour:
   - {fileID: 2772084015588471202}
   StringsBanks:
   - {fileID: 9100287844671127756}
-  cacheTime: 638699092949140748
+  cacheTime: 638721976637362424
   cacheVersion: 131621
 --- !u!114 &2772084015588471202
 MonoBehaviour:
@@ -68,7 +68,7 @@ MonoBehaviour:
   Path: Assets/JoaoGameFMOD/JoaoGame/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638699092948923204
+  lastModified: 638721976637242470
   FileSizes:
   - Name: Desktop
     Value: 35057728
@@ -142,7 +142,7 @@ MonoBehaviour:
   Path: Assets/JoaoGameFMOD/JoaoGame/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638699092949140748
+  lastModified: 638721976637362424
   FileSizes:
   - Name: Desktop
     Value: 888
